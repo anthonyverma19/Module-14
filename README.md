@@ -49,5 +49,7 @@ Update the chart whenever a new sample is selected.
 
 Weekly Washing Frequency Gauge
 
+Dashboard link found below:
+
 file:///Users/a.verma19/Downloads/Starter_Code%209/StarterCode/index.html
 # Module-14
